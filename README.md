@@ -8,9 +8,11 @@ On reddit.com, there is a section called "Awwwww". Many people will ask question
 
 ## Data Description:
 The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. 
+
 Number of categories: 120
 Number of images: 20,580
 Annotations: Class labels
+
 http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 
