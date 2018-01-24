@@ -14,7 +14,7 @@ The Stanford Dogs dataset contains images of 120 breeds of dogs from around the 
 http://vision.stanford.edu/aditya86/ImageNetDogs/
 
 ## Data Preparation
-1. load each image into numpy array with standardized dimensions 500*500*3
+1. load each image into numpy array with standardized dimensions 500x500x3
 2. map file name of each image with corresponding labels (breed type) 
 3. exclude images that is not in the labels.txt
 
