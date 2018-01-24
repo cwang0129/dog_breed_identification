@@ -41,8 +41,9 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
      
      
 ## Reference:
-https://keras.io/getting-started/sequential-model-guide/
-https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model
+*https://keras.io/getting-started/sequential-model-guide/
+
+*https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model
 
 
 
