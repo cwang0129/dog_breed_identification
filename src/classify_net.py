@@ -9,11 +9,8 @@ from data_manager import RESIZE_DIMENSION, int2label, label2int, load_data
 NUM_CLASS = len(int2label)
 INPUT_DIM = RESIZE_DIMENSION * RESIZE_DIMENSION * 3
 
-#x_train = np.random.random((1000, 20))
 x_train, y_train = load_data("data/train", keep_original=True)
-#y_train = keras.utils.to_categorical(np.random.randint(10, size=(1000, 1)), num_classes=10)
 y_train = keras.utils.to_categorical(y_train, num_classes=NUM_CLASS)
-#x_test = np.random.random((100, 20))
 x_test, y_test = load_data("data/train", keep_original=True)
 y_test = keras.utils.to_categorical(y_test, num_classes=NUM_CLASS)
 
