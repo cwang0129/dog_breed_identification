@@ -46,5 +46,5 @@ http://vision.stanford.edu/aditya86/ImageNetDogs/
 *https://keras.io/getting-started/faq/#how-can-i-save-a-keras-model
 
 
-
+## updated on Jan 1st, 2018 by chen wang.
 
